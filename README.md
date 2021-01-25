@@ -1,4 +1,4 @@
-<h2> Hey, I'm Ueslei. Welcome to my Github page!</h2>
+<h2> Hey, I'm Ueslei. Welcome to my Github profile!</h2>
 
 <h5>
     
