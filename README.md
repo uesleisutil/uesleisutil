@@ -9,7 +9,7 @@ from dataclasses import asdict, dataclass
 class Stack:
     languages   : tuple = ("Python", "Django", "Flask", "LaTeX", "Fortran", "SQL", "NCL", "HTML", "CSS", "JS")
     misc        : tuple = ("Tensorflow")
-    ongoing     : tuple = ("VueJS", "R", "Kubernetes", "ECL")
+    ongoing     : tuple = ("R", "ECL")
     pronouns    : tuple = ("He", "Him")
 
     def serialize(self):
